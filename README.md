@@ -1,3 +1,1 @@
-# Coming soon(ish) ...
-
-![Caption](Images/dbfy-1-nobg.png)
+![Coming soon, maybe ...](Images/dbfy-1-nobg.png)
